@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">India Quiz</string>
+    <string name="question1">1. What is the National Bird of India?</string>
+    <string name="q1option1">Crow</string>
+    <string name="q1option2">Sparrow</string>
+    <string name="q1option3">Peacock</string>
+    <string name="q1option4">Pigeon</string>
+    <string name="question2">2. What is the National Animal of India?</string>
+    <string name="q2option1">Tiger</string>
+    <string name="q2option2">Lion</string>
+    <string name="q2option3">Elephant</string>
+    <string name="q2option4">Hippo</string>
+    <string name="question3">3. What is the National Flower of India?</string>
+    <string name="q3option1">Rose</string>
+    <string name="q3option2">Lotus</string>
+    <string name="q3option3">Carnation</string>
+    <string name="q3option4">Sunflower</string>
+    <string name="question4">4. What is the National Game of India?</string>
+    <string name="q4option1">Cricket</string>
+    <string name="q4option2">Carom</string>
+    <string name="q4option3">Hockey</string>
+    <string name="q4option4">Tennis</string>
+    <string name="question5">5. What is the National Fruit of India?</string>
+    <string name="q5option1">Mango</string>
+    <string name="q5option2">Apple</string>
+    <string name="q5option3">Papaya</string>
+    <string name="q5option4">Tomato</string>
+    <string name="saveBtnString">Save</string>
+    <string name="submitBtnString">Submit Answers</string>
 </resources>
